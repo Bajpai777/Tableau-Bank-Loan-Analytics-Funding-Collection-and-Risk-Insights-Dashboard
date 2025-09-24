@@ -2,7 +2,7 @@
 This Tableau project focuses on building an interactive Loan Portfolio Analysis Dashboard designed to monitor, track, and analyze key financial and lending metrics. The dashboard provides comprehensive insights into loan disbursement, repayment, and portfolio performance through a set of well-defined KPIs and visualizations.
 
 ## Dataset Used
-<a href = "https://github.com/Bajpai777/Tableau-Interactive-Business-Insights-Dashboard-Superstore/blob/main/sample_-_superstore.xls">Sample Superstore Dataset</a> | <a href= "https://github.com/Bajpai777/Tableau-Bank-Loan-Analytics-Funding-Collection-and-Risk-Insights-Dashboard/blob/main/Bank%20Analysis%20Dashboard.twbx">Bank Analysis Dashboard Dataset</a>
+<a href = "https://github.com/Bajpai777/Tableau-Bank-Loan-Analytics-Funding-Collection-and-Risk-Insights-Dashboard/blob/main/Cleaned%20Bank%20Analysis%20Data.xlsx">Sample Dataset</a> | <a href= "https://github.com/Bajpai777/Tableau-Bank-Loan-Analytics-Funding-Collection-and-Risk-Insights-Dashboard/blob/main/Bank%20Analysis%20Dashboard.twbx">Bank Analysis Dashboard Dataset</a>
 
 ## Sample Reports:
 1. Category-wise Performance.
