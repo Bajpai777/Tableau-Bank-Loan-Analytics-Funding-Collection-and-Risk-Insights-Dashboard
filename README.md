@@ -25,7 +25,7 @@ This Tableau project focuses on building an interactive Loan Portfolio Analysis 
 - Publish dashboard to Tableau Public and Verify interactive features online (links, filters, parameter actions).
 
 ## Dashboard
-<img width="1917" height="977" alt="Bank Analysis Dashboard" src="https://github.com/user-attachments/assets/7c2b7555-8b13-45bc-a26f-20e5035f5684" />
+<img width="1917" height="977" alt="Bank Analysis Dashboard" src="https://github.com/Bajpai777/Tableau-Bank-Loan-Analytics-Funding-Collection-and-Risk-Insights-Dashboard/blob/main/Tableau%20Bank%20Analysis%20Dashboard.png" />
 
 ## Project Insight
 - Two-pane layout (left: logo + filters, right: visuals + KPIs).
