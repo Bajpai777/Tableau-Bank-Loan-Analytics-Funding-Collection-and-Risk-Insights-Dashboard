@@ -1,0 +1,2 @@
+# Tableau-Bank-Loan-Analytics-Funding-Collection-and-Risk-Insights-Dashboard
+This Tableau project focuses on building an interactive Loan Portfolio Analysis Dashboard designed to monitor, track, and analyze key financial and lending metrics. The dashboard provides comprehensive insights into loan disbursement, repayment, and portfolio performance through a set of well-defined KPIs and visualizations.
